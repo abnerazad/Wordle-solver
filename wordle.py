@@ -20,6 +20,7 @@ def show_intro():
     print("   - 'R' to retry with a new word.")
     print("   - 'A' to restart the game.")
     print("3. Try to guess the word within the allowed number of attempts!")
+    print("Developed by Abner Azad")
     print("\nPress Enter to start the game...")
     input()  # Wait for the user to press Enter
     clear_console()
